@@ -8,7 +8,7 @@ Her biri Python öğrenme sürecimde pratik yapmak ve temel kavramları pekişti
 ### 1. 🧠 Adam Asmaca
 Klasik adam asmaca oyununu terminalde oynayın.  
 Rastgele seçilen şehir ismini tahmin etmeye çalışırken her hatada adam yavaş yavaş asılıyor!
-👉 [`adam asmaca/`](./adam%20asmaca)
+👉 [`adam asmaca/`](Mini_Py%20Projelerim/Adam%20Asmaca)
 
 ### 2. 🔐 Şifre Oluşturucu
 Kullanıcıdan alınan bilgilere göre harf, sembol ve rakamları karıştırarak rastgele güçlü şifre oluşturur.
