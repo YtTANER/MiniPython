@@ -4,25 +4,19 @@ Her proje kendi klasörü içinde yer alır ve içerisinde açıklayıcı `READM
 Her biri Python öğrenme sürecimde pratik yapmak ve temel kavramları pekiştirmek için geliştirilmiştir.
 
 📁 Projeler
-
 ### 1. 🧠 Adam Asmaca
 Klasik adam asmaca oyununu terminalde oynayın.  
 Rastgele seçilen şehir ismini tahmin etmeye çalışırken her hatada adam yavaş yavaş asılıyor!
-👉 [`adam asmaca/`](Mini_Py%20Projelerim/Adam%20Asmaca)
 
 ### 2. 🔐 Şifre Oluşturucu
 Kullanıcıdan alınan bilgilere göre harf, sembol ve rakamları karıştırarak rastgele güçlü şifre oluşturur.
-👉 [`şifre oluşturucu/`](./şifre%20oluşturucu)
 
 ### 3. ✊✋✌️ Taş Kağıt Makas
-Kullanıcı ile bilgisayar arasında terminalde oynanabilen eğlenceli klasik oyun.
-👉 [`taş kağıt makas/`](./taş%20kağıt%20makas)
+Kullanıcı ile bilgisayar arasında oynanabilen eğlenceli klasik oyun.
 
 ### 4. 🌲 Ormandan Kaçış (Seçmeli Hikaye)
 Bir metin tabanlı mini macera oyunu.  
 Gizemli bir ormanda doğru kararları vererek hayatta kalmayı başarmaya çalış!
-
-👉 [`ormandan kaçış/`](./ormandan%20kaçış)
 
 ## 🔧 Kurulum
 Projeleri çalıştırmak için yalnızca Python yeterlidir:
